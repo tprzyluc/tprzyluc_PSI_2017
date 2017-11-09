@@ -1,9 +1,2 @@
-﻿  Source.cpp
-  Neuron.cpp
-v:\psi\lab1\lab_1\program1\neuron.cpp(18): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
-v:\psi\lab1\lab_1\program1\neuron.cpp(27): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
-v:\psi\lab1\lab_1\program1\neuron.cpp(43): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
-  Generowanie kodu...
-  LINK : nie znaleziono elementu V:\PSI\lab1\Lab_1\Debug\program1.exe ani nie został on skompilowany podczas ostatniego konsolidowania przyrostowego; zostanie wykonana pełna konsolidacja
-  program1.vcxproj -> V:\PSI\lab1\Lab_1\Debug\program1.exe
+﻿  program1.vcxproj -> V:\PSI\lab1\Lab_1\Debug\program1.exe
   program1.vcxproj -> V:\PSI\lab1\Lab_1\Debug\program1.pdb (Partial PDB)
