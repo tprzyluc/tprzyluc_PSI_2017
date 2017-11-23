@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NeuralReaderProject ProjectType="Classification">
+    <VariablesNumber>8</VariablesNumber>
+    <Item Index="1">
+        <Name>variable_1</Name>
+    </Item>
+    <Item Index="2">
+        <Name>variable_2</Name>
+    </Item>
+    <Item Index="3">
+        <Name>variable_3</Name>
+    </Item>
+    <Item Index="4">
+        <Name>variable_4</Name>
+    </Item>
+    <Item Index="5">
+        <Name>variable_5</Name>
+    </Item>
+    <Item Index="6">
+        <Name>variable_6</Name>
+    </Item>
+    <Item Index="7">
+        <Name>variable_7</Name>
+    </Item>
+    <Item Index="8">
+        <Name>variable_8</Name>
+    </Item>
+    <ColumnsName>
+        <ColumnsNameSize>8</ColumnsNameSize>
+        <Item Index="1" Size="0"/>
+        <Item Index="2" Size="0"/>
+        <Item Index="3" Size="0"/>
+        <Item Index="4" Size="0"/>
+        <Item Index="5" Size="0"/>
+        <Item Index="6" Size="0"/>
+        <Item Index="7" Size="0"/>
+        <Item Index="8" Size="0"/>
+    </ColumnsName>
+    <Header>
+        <HeaderSize>8</HeaderSize>
+        <Name Index="1">0</Name>
+        <Name Index="2">0</Name>
+        <Name Index="3">0</Name>
+        <Name Index="4">0</Name>
+        <Name Index="5">0</Name>
+        <Name Index="6">0</Name>
+        <Name Index="7">0</Name>
+        <Name Index="8">0</Name>
+    </Header>
+    <InstancesNumber>8</InstancesNumber>
+    <MissingValues>
+        <MissingValuesNumber>0</MissingValuesNumber>
+    </MissingValues>
+    <PreviewData>
+        <PreviewSize>3</PreviewSize>
+        <Item Index="1" Size="8">
+            <Value>0</Value>
+            <Value>0</Value>
+            <Value>0</Value>
+            <Value>0</Value>
+            <Value>0</Value>
+            <Value>0</Value>
+            <Value>0</Value>
+            <Value>0</Value>
+        </Item>
+        <Item Index="2" Size="8">
+            <Value>0</Value>
+            <Value>0</Value>
+            <Value>0</Value>
+            <Value>0</Value>
+            <Value>0</Value>
+            <Value>0</Value>
+            <Value>0</Value>
+            <Value>0</Value>
+        </Item>
+        <Item Index="3" Size="8">
+            <Value>0</Value>
+            <Value>0</Value>
+            <Value>0</Value>
+            <Value>1</Value>
+            <Value>1</Value>
+            <Value>0</Value>
+            <Value>0</Value>
+            <Value>0</Value>
+        </Item>
+    </PreviewData>
+</NeuralReaderProject>

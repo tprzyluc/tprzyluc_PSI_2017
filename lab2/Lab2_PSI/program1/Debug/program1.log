@@ -1,0 +1,7 @@
+﻿V:\Visual Studio 2017\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: Katalog pośredni (Debug\) zawiera pliki udostępnione z innego projektu (program1.vcxproj). Może to spowodować niepoprawne zachowanie podczas oczyszczania i ponownej kompilacji.
+  Source.cpp
+c:\users\steefler\desktop\psi_lab2\lab2_psi\program1\source.cpp(22): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+c:\users\steefler\desktop\psi_lab2\lab2_psi\program1\source.cpp(41): warning C4101: "inputs": lokalna zmienna, do której nie istnieje odwołanie
+c:\users\steefler\desktop\psi_lab2\lab2_psi\program1\source.cpp(117): warning C4101: "j": lokalna zmienna, do której nie istnieje odwołanie
+  program1.vcxproj -> C:\Users\Steefler\Desktop\PSI_Lab2\Lab2_PSI\Debug\Lab2_PSI.exe
+  program1.vcxproj -> C:\Users\Steefler\Desktop\PSI_Lab2\Lab2_PSI\Debug\Lab2_PSI.pdb (Partial PDB)
